@@ -1,0 +1,4 @@
+strategy,total_invested,final_value,profit_loss,return_pct
+DCA_only,50000.0,64877.89,14877.89,29.76
+Lump_then_DCA,50000.0,70149.97,20149.97,40.3
+Limit_DCA_10pct,50000.0,65590.16,15590.16,31.18
